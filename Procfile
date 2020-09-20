@@ -1,0 +1,1 @@
+web: ./build/install/BuildingApiKtor/bin/BuildingApiKtor
